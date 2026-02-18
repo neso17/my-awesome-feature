@@ -10,6 +10,7 @@ pip install -r requirements.txt
 ```
 
 # How to run the game
+This is my change
 
 Make sure your venv is activated (it will be if you followed the instructions above!)
 Then, run the game:
